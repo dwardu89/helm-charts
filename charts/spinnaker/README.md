@@ -1,6 +1,6 @@
 # spinnaker
 
-![Version: 2.2.3](https://img.shields.io/badge/Version-2.2.3-informational?style=flat-square) ![AppVersion: 1.16.2](https://img.shields.io/badge/AppVersion-1.16.2-informational?style=flat-square)
+![Version: 2.2.4](https://img.shields.io/badge/Version-2.2.4-informational?style=flat-square) ![AppVersion: 1.16.2](https://img.shields.io/badge/AppVersion-1.16.2-informational?style=flat-square)
 
 Open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
