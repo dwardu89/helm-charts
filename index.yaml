@@ -1,5 +1,30 @@
 apiVersion: v1
 entries:
+  rundeck:
+  - apiVersion: v1
+    appVersion: 3.2.7
+    created: "2020-11-03T19:16:09.109839598Z"
+    description: A Rundeck chart for Kubernetes
+    digest: 94ef4212ce46845d5e6775967f4108dd6da9c9b6310287548bf0620e35d347fc
+    home: https://github.com/rundeck/rundeck
+    keywords:
+    - rundeck
+    - jobs
+    - automation
+    - operations
+    maintainers:
+    - email: hello@dwardu.com
+      name: dwardu89
+    - email: fabioviana.bh@gmail.com
+      name: fabioviana
+    - email: diego.fl.duarte@gmail.com
+      name: dfduarte
+    name: rundeck
+    sources:
+    - https://github.com/rundeck/rundeck
+    urls:
+    - https://github.com/dwardu89/helm-charts/releases/download/rundeck-0.3.4/rundeck-0.3.4.tgz
+    version: 0.3.4
   spinnaker:
   - apiVersion: v1
     appVersion: 1.16.2
