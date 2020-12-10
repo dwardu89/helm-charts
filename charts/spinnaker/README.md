@@ -64,7 +64,7 @@ Open source, multi-cloud continuous delivery platform for releasing software cha
 | halyard.persistence.enabled | bool | `true` |  |
 | halyard.resources | object | `{}` |  |
 | halyard.serviceConfigs | object | `{}` |  |
-| halyard.spinnakerVersion | string | `"1.19.4"` |  |
+| halyard.spinnakerVersion | string | `nil` |  |
 | ingress.enabled | bool | `false` |  |
 | ingressGate.enabled | bool | `false` |  |
 | kubeConfig.checkPermissionsOnStartup | bool | `true` |  |
